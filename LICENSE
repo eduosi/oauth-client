@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 				Apache License
+=======
+Apache License
+>>>>>>> dc7f5a4071db39de488b5924a1a4aaa778e8d3eb
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -186,7 +190,11 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
+<<<<<<< HEAD
    Copyright @ 2013 Yong.Teng(http://www.buession.com/)
+=======
+   Copyright {yyyy} {name of copyright owner}
+>>>>>>> dc7f5a4071db39de488b5924a1a4aaa778e8d3eb
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
