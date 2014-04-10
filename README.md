@@ -1,4 +1,4 @@
-web-support-oauth
+oauth-client
 =================
 
-Java 实现 oAuth 第三方登录
+OAuth 1.0, OAuth 2.0 Provider && Client API
